@@ -2,7 +2,7 @@
 
 This is the repository for the following paper: Fetal Brain Component Segmentation using with 2-way Ensemble U-Net.
 
-Cite our work : Halder, S., T. Gangopadhyay, P. Dasgupta, K. Chatterjee, D. Ganguly, S. Sarkar, and S. Roy. "Fetal Brain Component Segmentation using 2-way Ensemble U-Net." In Proceedings of the 7th International Conference on Data Management, Analytics and Innovation, Pune, India, pp. 1-12. 2023.
+Cite our work : Halder, S. et al. (2023). Fetal Brain Component Segmentation Using 2-Way Ensemble U-Net. In: Sharma, N., Goje, A., Chakrabarti, A., Bruckstein, A.M. (eds) Data Management, Analytics and Innovation. ICDMAI 2023. Lecture Notes in Networks and Systems, vol 662. Springer, Singapore. https://doi.org/10.1007/978-981-99-1414-2_28.
 
 This paper is for segmenting the fetal brain into its seven major components: Intracranial space and extra-axial CSF spaces, Gray matter, White matter, Ventricles, Cerebellum, Deep gray matter and the Brainstem and spinal cord.
 
